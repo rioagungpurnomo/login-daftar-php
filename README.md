@@ -4,7 +4,7 @@
 
 # Login dan Daftar
 
-fitur :
+Fitur :
 
 - Login
 - Daftar
